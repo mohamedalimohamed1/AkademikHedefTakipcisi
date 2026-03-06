@@ -71,23 +71,6 @@ app
      └── PdfGenerator.kt
 ```
 
-## Firebase Veri Yapısı
-
-```
-users
-   uid
-      name
-      email
-      targetGPA
-
-      courses
-          courseId
-              name
-              credit
-              actualGrade
-              targetGrade
-```
-
 ## GPA Hesaplama
 
 ```
