@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913247259919",
+    "project_id": "akademikhedeftakipcisi",
+    "storage_bucket": "akademikhedeftakipcisi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913247259919:android:7f1323fedc956675d1427a",
+        "android_client_info": {
+          "package_name": "com.example.akademikhedeftakipcisi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8spNbboI_c27TzcRNett0qNOslOAESfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
