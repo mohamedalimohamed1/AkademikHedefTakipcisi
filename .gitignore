@@ -1,39 +1,59 @@
 # Gradle
+
 .gradle/
 build/
-**/build/
-
-# Local configuration
-local.properties
 
 # Android Studio
+
 .idea/
 *.iml
 
-# Log files
-*.log
+# Local configuration
 
-# OS files
-.DS_Store
-Thumbs.db
+local.properties
 
-# Keystore
+# Firebase configuration
+
+google-services.json
+
+# Signing keys
+
 *.jks
 *.keystore
 
-# Generated files
-captures/
-.externalNativeBuild/
-.cxx/
+# Build outputs
 
-# Kotlin
-*.kotlin_module
-# Gradle wrapper cache
-gradle-wrapper.jar
+*.apk
+*.ap_
+*.dex
+*.class
 
-# Android Studio cache
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Navigation
+
 .navigation/
 
+# Kotlin metadata
+
+*.kotlin_metadata
+
 # Temporary files
+
 *.tmp
 *.bak
+
+# External builds
+
+.externalNativeBuild/
+
+# Captures
+
+captures/
